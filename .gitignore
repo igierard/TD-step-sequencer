@@ -1,0 +1,4 @@
+Backup/
+*.tdversion
+TD-step-sequencer.*.toe
+TD-step-sequencer-working*.toe
